@@ -2,3 +2,6 @@
 	path = .workshop/scripts
 	url = https://github.com/openshift-homeroom/spawner-scripts.git
 	branch = stable/2.x
+[submodule "agnosticd"]
+	path = agnosticd
+	url = https://github.com/redhat-cop/agnosticd
